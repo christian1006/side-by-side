@@ -1,0 +1,22 @@
+Loops
+
+
+behavioral specifications:
+	(think of an ideal use case for a loop)
+	- eating, you do it everyday
+	weekly meal planner
+
+code specs
+	args: 1
+		array of 7 arrays
+			nested array contains 3 meals, String
+	returns: array
+		array of Strings
+	behavior:
+		consumes one food item per meal
+		returns all poo at the end of the week.  assume a healthy daily bowl movement schedule
+
+
+
+
+https://www.w3schools.com/js/js_loop_for.asp

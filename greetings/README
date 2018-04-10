@@ -1,0 +1,24 @@
+Greetings:
+
+behavioral specifications:
+	- cases are mutually exclusive
+	if it's morning, say good morning
+		from 0001 to 1200
+	if it's afternoon, say good afternoon
+		from 1201 to 1800
+	if it's evening, say good evening
+		from 1801 to 0000
+
+code specifications:
+	args: 1
+		number: the time of day
+	return: String
+		the appropriate greeting
+	behavior:
+		depending on the time, a different greeting is returned
+
+strategy:
+	answer one correctly at at time
+
+https://www.w3schools.com/js/js_if_else.asp
+

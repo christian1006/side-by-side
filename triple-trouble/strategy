@@ -1,4 +1,4 @@
-function 
+function (num1, num2)
 	2: declare necessary variables
 
 
