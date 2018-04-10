@@ -1,0 +1,32 @@
+function 
+	2: declare necessary variables
+
+
+
+	6: type validation
+
+
+	9: convert args to practical data type
+
+
+	12: check first number for 3 in a row
+
+
+
+
+
+	18: if first one has 3 in a row
+	19: check if second has 2 in a row
+
+
+
+
+
+
+	26: do they both have the same letter?
+
+
+
+
+	31: return returner
+end function
